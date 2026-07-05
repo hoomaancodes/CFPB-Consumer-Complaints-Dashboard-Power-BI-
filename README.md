@@ -4,11 +4,6 @@ A Power BI dashboard analyzing over 1.28 million consumer complaints submitted t
 Consumer Financial Protection Bureau (CFPB) between 2011 and 2019 — broken down by 
 Product, State, and Year.
 
-## Dashboard Preview
-
-*(Add a screenshot of your dashboard here, e.g.:)*
-`![Dashboard Screenshot](dashboard_screenshot.png)`
-
 ## Project Goal
 
 Explore consumer complaint patterns across financial products (mortgages, credit cards, 
@@ -56,12 +51,6 @@ verified against Kaggle's published date-range bucket totals — with zero data 
 
 - **Python** (pandas) — data cleaning
 - **Power BI Desktop** — dashboard and visualization
-
-## Repo Contents
-├── clean_complaints.py      # Python script to clean the raw CSV
-├── CFPB_Complaints_Dashboard.pbix   # Power BI dashboard file
-├── process_notes.pdf        # Full documentation of the data cleaning process
-└── README.md
 
 ## Reproducing This Project
 
