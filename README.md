@@ -3,6 +3,10 @@
 A Power BI dashboard analyzing over 1.28 million consumer complaints submitted to the 
 Consumer Financial Protection Bureau (CFPB) between 2011 and 2019 — broken down by 
 Product, State, and Year.
+## Dashboard:
+
+<img width="1372" height="791" alt="Screenshot 2026-07-05 222934" src="https://github.com/user-attachments/assets/e47e85de-a8b6-4f56-894b-1a18fb7b930a" />
+
 
 ## Project Goal
 
